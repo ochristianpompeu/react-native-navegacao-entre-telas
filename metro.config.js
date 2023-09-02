@@ -20,3 +20,4 @@ module.exports = (async () => {
     }
   };
 })();
+//$env:NODE_OPTIONS = "--openssl-legacy-provider"
